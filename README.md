@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AmaanAhmed18
+- 👋 Hi, I’m Amaan
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Web designing
-- 😄 Pronouns: he/him
 
 
 <!---
