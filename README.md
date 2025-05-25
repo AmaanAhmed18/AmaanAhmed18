@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amaan
-- 👀 And I love learning new things or maybe 'skills' in my case...
+- 👀 And I love learning new things or maybe 'skills' in this case...
 
 
 <!---
